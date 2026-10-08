@@ -9,7 +9,7 @@
 
 | Content | Status | Evidence / Notes |
 |---|---|---|
-| Name | Milan Singh | ✅ CONFIRMED | Authentic skill per validation |
+| Name |  ✅ CONFIRMED | Authentic skill per validation |
 | Prompt Engineering | ✅ CONFIRMED | Authentic skill per validation |
 | AI & Machine Learning | ✅ CONFIRMED | Authentic skill per validation |
 | Exploratory Data Analysis (EDA) | ✅ CONFIRMED | Authentic skill per validation |
