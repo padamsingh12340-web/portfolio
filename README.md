@@ -1,4 +1,4 @@
-# Milan Singh – Portfolio
+# Milan Singh – Portfolio changed
 
 A clean, responsive personal portfolio website showcasing my work as an **AI & Machine Learning Specialist**. Built with plain HTML and CSS, with no frameworks or dependencies.
 
